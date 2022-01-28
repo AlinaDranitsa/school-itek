@@ -1,0 +1,161 @@
+@media screen and (max-width:992px){
+.discription-offline{
+    margin-left: 30px;
+}
+.about-text ol{
+    min-width: 400px;
+}
+.img-p{
+    margin-left: 60px;
+    min-width: 700px;
+}
+.about-img{
+    margin-left: -90px;
+    margin-top: 40px;
+}
+.teacher-p{
+    max-width: 200px;
+}
+.lang{
+    max-width: 30px;
+    margin-left: 25px;
+    margin-right: 40px;
+}
+.carousel{
+    margin-left: -120px;
+    min-width: 600px;
+}
+}
+@media screen and (max-width:768px){
+.address{
+    max-width: 250px;
+}
+.carousel{
+    min-width: 600px;
+    margin-left: -135px;
+}
+.discript-img img{
+    max-width: 250px;
+    margin-top: 100px;
+}
+.method-discript{
+    margin-left: -35px;
+}
+.img-p{
+    margin-left: 30px;
+    min-width: 600px;
+}
+.about-img{
+    margin-right: -60px;
+    margin-left: -35px;
+}
+.teacher-p{
+    max-width: 130px;
+}
+.teacher-p img{
+    max-width: 130px;
+}
+.contact img{
+    max-width: 300px;
+}
+.contact-p{
+    max-width: 300px;
+    margin-top: 15px;
+}
+}
+@media screen and (max-width:576px){
+.logo{
+    margin-top: 30px;
+}
+.navbar{
+    padding: 5px;
+}
+.link-site-m{
+    margin-right: 40px;
+    margin-top: 10px;
+}
+.discript-img{
+    margin-top: 70px;
+    margin-left: 10px;
+}
+.forms h2{
+    margin-top: 20px;
+}
+.footer{
+    font-size: 12px;
+}
+.address{
+    max-width: 100px;
+}
+.social{
+    max-width: 120px;
+}
+.contact img{
+    margin-top: 30px;
+    max-width: 250px;
+    margin-left: 10px;
+}
+.contacts{
+    max-width: 120px;
+}
+iframe{
+    max-width: 500px;
+}
+.social img{
+    max-width: 25px;
+}
+.link-site{
+    margin-right: -10px;
+}
+.lang-p{
+    margin-left: -15px;
+}
+.about-img img{
+    max-width: 300px;
+    margin-left: 35px;
+    margin-top: 70px;
+}
+.about-text li{
+    max-width: 250px;
+}
+.carousel{
+    min-width: 500px;
+    margin-left: -160px;
+}
+.row-p{
+    max-width: 400px;
+}
+.row-p img{
+    max-width: 40px;
+    margin-left: 20px;
+}
+.teacher{
+    max-width: 570px;
+    display: flex;
+    flex-direction:  column;
+    margin-left: 100px;
+}
+.teacher-p{
+    max-width: 300px;
+}
+.teacher-p img{
+    max-width: 200px;
+}
+.h4{
+    max-width: 450px;
+    margin-left: 20px;
+}
+ul{
+    max-width: 450px;
+    margin-left: 30px;
+}
+
+
+
+
+    
+
+
+}
+
+    
